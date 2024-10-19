@@ -1,9 +1,7 @@
 En la futurista Ryme City, donde humanos y Pokémon conviven en armonía, Tim Goodman llega decidido a 
 descubrir la verdad sobre la desaparición de su padre, Harry 1
 Te encuentras en la oficina de tu padre, un lugar lleno de recuerdos y de promesas rotas. Sobre su escritorio hay una nota con el nombre de Howard Clifford, el CEO de Ryme City. La investigación está porcomenzar  2
-Una figura amarilla aparece, 
-Pikachu te observa, parece 
-confundido pero no agresivo 3
+Una figura amarilla aparece, Pikachu te observa, parece confundido pero no agresivo 3
 Pikachu te observa con ojos grandes, pero no parece peligroso... ¿o sí ¿Quieres atacarlo? 4
 Pikachu: Sé que esto es difícil de entender, pero estoy aquí por tu padre. 
 Necesito tu ayuda 5
